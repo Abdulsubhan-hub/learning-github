@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+
+padding: 0px
+}
+navbar{display: flex;
+justify-content: space-between;
+;
+}
+.text{
+    margin-top: 10px;
+padding: 10px;;
+justify-content: space-evenly;
+margin-left: 25px;
+}
+.card-group{
+    border: none;
+}
+.card{
+    border: none;
+}
+.card-text{
+    font-size: x-large;
+    font-weight: bolder;
+    border: 0pc;
+}
